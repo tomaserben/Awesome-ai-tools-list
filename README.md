@@ -393,6 +393,7 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 - [Clipwing](https://clipwing.pro/) - A tool for cutting long videos into dozens of short clips.
 - [Recast Studio](https://recast.studio) - AI powered podcast marketing assistant.
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
+- [ImagineClip](https://imagineclip.com?ref=FindSilent-Awesome-ai-tools-list) - AI video generator for social clips, avatar videos, stylized scenes, and shareable visual effects.
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
 
