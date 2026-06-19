@@ -395,6 +395,7 @@ We publish regular updates of this repo in the [iSEOAI Newsletter](https://iseoa
 - [Based AI](https://www.basedlabs.ai/) - AI Intuitive Interface for Video creating
 - [klingai](https://app.klingai.com/global/) - AI creative studio boasts AI image and video generation capabilities.
 - [Sisif](https://sisif.ai/) - AI Video Generator: Turn Text into Stunning Videos in Seconds
+- [ImagineClip](https://imagineclip.com/) - AI video generator for fun clips, avatar videos, stylized scenes, and shareable social content.
 
 
 ### Animation
